@@ -1,1 +1,1 @@
-# simplu-netwotking-project
+# simply-netwotking-project
